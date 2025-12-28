@@ -34,6 +34,7 @@ import fanArt4 from "@assets/generated_images/siuuu.jpg";
 import fanArt5 from "@assets/generated_images/artworks-rUKXtVw3cA3TFRtd-ohevmw-t500x500.jpg";
 import fanArt6 from "@assets/generated_images/ClownPierce.webp";
 import fanArt7 from "@assets/generated_images/ClownPierce-Merch-6-1024x1024.jpeg";
+import fanArt8 from "@assets/generated_images/moneysmp_bg.jpg";
 
 const fadeInUp = {
   initial: { opacity: 0, y: 40 },
@@ -490,6 +491,7 @@ function FanArtGallery() {
     { src: fanArt5, title: "Throne of the Deadliest", artist: "Fan Artist" },
     { src: fanArt6, title: "Combat Unleashed", artist: "Fan Artist" }
     , { src: fanArt7, title: "ClownPierce Merch Design", artist: "Fan Artist" }
+    , { src: fanArt8, title: "Money SMP Background", artist: "Fan Artist" }
   ];
 
   return (
