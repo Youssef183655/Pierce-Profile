@@ -27,7 +27,7 @@ import { Badge } from "@/components/ui/badge";
 import { ThemeToggle } from "@/components/theme-toggle";
 import { useState } from "react";
 import { Dialog, DialogContent } from "@/components/ui/dialog";
-import heroImage from "@assets/generated_images/esss.jpg";
+import heroImage from "@assets/generated_images/e70169fb-cf49-4e90-8815-008e411ba957-profile_banner-480.jpeg";
 import fanArt1 from "@assets/generated_images/download.jpg";
 import fanArt2 from "@assets/generated_images/Legend.jpg";
 import fanArt4 from "@assets/generated_images/siuuu.jpg";

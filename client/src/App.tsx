@@ -7,14 +7,7 @@ import { ThemeProvider } from "@/components/theme-provider";
 import Home from "@/pages/home";
 import NotFound from "@/pages/not-found";
 
-function Router() {
-  return (
-    <Switch>
-      <Route path="/" component={Home} />
-      <Route component={NotFound} />
-    </Switch>
-  );
-}
+
 
 function App() {
   return (
@@ -22,7 +15,7 @@ function App() {
       <QueryClientProvider client={queryClient}>
         <TooltipProvider>
           <Toaster />
-          <Router />
+          <Home />
         </TooltipProvider>
       </QueryClientProvider>
     </ThemeProvider>
