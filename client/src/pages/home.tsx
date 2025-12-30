@@ -36,7 +36,7 @@ import fanArt6 from "@assets/generated_images/ClownPierce.webp";
 import fanArt7 from "@assets/generated_images/ClownPierce-Merch-6-1024x1024.jpeg";
 import fanArt8 from "@assets/generated_images/moneysmp_bg.jpg";
 import fanArt9 from "@assets/generated_images/download(1).jpg";
-import fanArt10 from "@assets/generated_images/#wearelifesteal #lifestealsmp #deadliestsmp #Hannahxxrose #Vitalasy #TheTerrain #Vort3xDragon #Woogiex #Reddoons #PrinceZam #PlanetLord #.jpg";
+import fanArt10 from "@assets/generated_images/lifesteal.jpg";
 
 const fadeInUp = {
   initial: { opacity: 0, y: 40 },
