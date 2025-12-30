@@ -35,6 +35,8 @@ import fanArt5 from "@assets/generated_images/artworks-rUKXtVw3cA3TFRtd-ohevmw-t
 import fanArt6 from "@assets/generated_images/ClownPierce.webp";
 import fanArt7 from "@assets/generated_images/ClownPierce-Merch-6-1024x1024.jpeg";
 import fanArt8 from "@assets/generated_images/moneysmp_bg.jpg";
+import fanArt9 from "@assets/generated_images/download(1).jpg";
+import fanArt10 from "@assets/generated_images/#wearelifesteal #lifestealsmp #deadliestsmp #Hannahxxrose #Vitalasy #TheTerrain #Vort3xDragon #Woogiex #Reddoons #PrinceZam #PlanetLord #.jpg";
 
 const fadeInUp = {
   initial: { opacity: 0, y: 40 },
@@ -492,6 +494,8 @@ function FanArtGallery() {
     { src: fanArt6, title: "Combat Unleashed", artist: "Fan Artist" }
     , { src: fanArt7, title: "ClownPierce Merch Design", artist: "Fan Artist" }
     , { src: fanArt8, title: "Money SMP Background", artist: "Fan Artist" }
+    , { src: fanArt9, title: "Epic Battle Scene", artist: "Fan Artist" }
+    , { src: fanArt10, title: "Legend in lifesteal SMP", artist: "Fan Artist" }
   ];
 
   return (
